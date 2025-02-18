@@ -457,6 +457,7 @@ MonoBehaviour:
   enemyPrefabs:
   - {fileID: 5149820858247794084, guid: 14d0fc46f437b9b47b3213cd733f42c6, type: 3}
   - {fileID: 127603287233885602, guid: b492e675dc32f8147b30c42509e715ca, type: 3}
+  - {fileID: 5149820858247794084, guid: 0da269b8da1b3ae48a5b5d1053e1b357, type: 3}
   spawnAreas:
   - serializedVersion: 2
     x: -7.5
